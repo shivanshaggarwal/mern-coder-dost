@@ -1,0 +1,6 @@
+Preparing for the GATE exam can be straightforward if you know the right steps to take. This brief GATE CSE Preparation Guide will help you get started and stay on track as you prepare for one of the most important exams for admissions into IITs, NITs and other government colleges.
+
+Let's get started:
+
+Understand the GATE CSE Syllabus
+The first step in your GATE CS preparation is to thoroughly understand the syllabus. Knowing the syllabus helps you focus your studies on relevant topics and avoid wasting time on unnecessary material. Below is the table of GATE Computer Science subjects. Each subjects is linked with article in which relevant topic according to subject are discussed.
